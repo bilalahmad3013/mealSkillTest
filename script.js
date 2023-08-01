@@ -18,7 +18,8 @@ function showMeal() {
   for (var n = 0; n < arr.length; n++) {
     var currentMeal = arr[n];
     var l = currentMeal;
-
+    ver c="abcd";
+    
     var div = document.getElementById('meals');
 
     div.innerHTML += `<div class="card mycards" style="width: 18rem;">
