@@ -1,5 +1,6 @@
 var arr = [];
 var fav = [];
+var z=[];
 
 // getting 10 random meals to display
 async function meals() {
