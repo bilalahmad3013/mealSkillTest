@@ -18,8 +18,7 @@ function showMeal() {
   for (var n = 0; n < arr.length; n++) {
     var currentMeal = arr[n];
     var l = currentMeal;
-    let d=123;
-    ver c="abcd";
+   
     
     var div = document.getElementById('meals');
 
